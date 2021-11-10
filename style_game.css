@@ -1,0 +1,13 @@
+body
+{
+	background: #5F9A80;
+}
+.center{
+	text-align: center;
+}
+.aline{
+	display:inline-block;
+}
+/* #hard{
+	display: none;
+} */
